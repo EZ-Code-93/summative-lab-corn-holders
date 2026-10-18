@@ -1,0 +1,40 @@
+{
+    "corn-holders": [
+        {
+            "id": 1,
+            "name": "Classic Corn Holder",
+            "img": "images/classic-corn-holder.jpeg",
+            "price": 2.99
+        },
+        {
+            "id": 2,
+            "name": "Alligator Corn Holder",
+            "img": "images/alligator-corn-holder.jpeg",
+            "price": 4.99
+        },
+        {
+            "id": 3,
+            "name": "Baseball Bat Corn Holder",
+            "img": "images/baseball-bat-corn-holder.jpeg",
+            "price": 7.99
+        },
+        {
+            "id": 4,
+            "name": "Dinosaur Corn Holder",
+            "img": "images/dinosaur-corn-holder.jpeg",
+            "price": 4.99
+        },
+        {
+            "id": 5,
+            "name": "Shark Corn Holder",
+            "img": "images/shark-corn-holder.jpeg",
+            "price": 5.99
+        },
+        {
+            "id": 6,
+            "name": "Skeleton Corn Holder",
+            "img": "images/skeleton-corn-holder.jpeg",
+            "price": 4.99
+        }
+    ]
+}
